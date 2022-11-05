@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package pbo;
+
+/**
+ *
+ * @author LENOVO IDEAPAD 3
+ */
+public class Latihan3 {
+    public static void main(String[] args){
+        String matakuliah = "Pemprograman Berbasis Objek";
+        String singkatan = "PBO";
+        String sks = "3";
+        String pengajar = "Didi Andriawan";
+        
+        System.out.println("Matakuliah  = "+matakuliah);
+        System.out.println("Singkatan  = "+singkatan);
+        System.out.println("SKS  = "+sks);
+        System.out.println("Pengajar  = "+pengajar);
+    }
+}
+ 
+
